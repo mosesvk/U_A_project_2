@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styles from './CourseInput.module.scss';
 import Button from "../../UI/Button/Button";
-import "./CourseInput.scss";
+import "./CourseInput.module.scss";
 
 
 const CourseInput = (props) => {
